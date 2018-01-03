@@ -5,7 +5,7 @@ Sistema de importação de arquivos do Excel com cadastro no banco de dados
 
 ![alt tag](https://github.com/evandrogouveia/Importa-Excel/blob/master/index.JPG)
 
-### Ao enviar o arquivo será exibido uma lista com o conteúdo do arquivo e os dados seráo cadastrados no banco de dados 
+### Ao enviar o arquivo será exibido uma lista com o conteúdo do arquivo e os dados serão cadastrados no banco de dados 
 
 ![alt tag](https://github.com/evandrogouveia/Importa-Excel/blob/master/processado.JPG)
 
